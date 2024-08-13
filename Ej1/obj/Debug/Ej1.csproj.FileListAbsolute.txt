@@ -1,0 +1,11 @@
+C:\Users\santy\source\repos\Guia1.1\Ej1\bin\Debug\Ej1.exe.config
+C:\Users\santy\source\repos\Guia1.1\Ej1\bin\Debug\Ej1.exe
+C:\Users\santy\source\repos\Guia1.1\Ej1\bin\Debug\Ej1.pdb
+C:\Users\santy\source\repos\Guia1.1\Ej1\obj\Debug\Ej1.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\Guia1.1\Ej1\obj\Debug\Ej1.Form1.resources
+C:\Users\santy\source\repos\Guia1.1\Ej1\obj\Debug\Ej1.Properties.Resources.resources
+C:\Users\santy\source\repos\Guia1.1\Ej1\obj\Debug\Ej1.Resultados.resources
+C:\Users\santy\source\repos\Guia1.1\Ej1\obj\Debug\Ej1.csproj.GenerateResource.cache
+C:\Users\santy\source\repos\Guia1.1\Ej1\obj\Debug\Ej1.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Guia1.1\Ej1\obj\Debug\Ej1.exe
+C:\Users\santy\source\repos\Guia1.1\Ej1\obj\Debug\Ej1.pdb

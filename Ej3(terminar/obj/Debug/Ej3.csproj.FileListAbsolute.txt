@@ -1,0 +1,11 @@
+C:\Users\santy\source\repos\Guia1.1\Ej3\bin\Debug\Ej3.exe.config
+C:\Users\santy\source\repos\Guia1.1\Ej3\bin\Debug\Ej3.exe
+C:\Users\santy\source\repos\Guia1.1\Ej3\bin\Debug\Ej3.pdb
+C:\Users\santy\source\repos\Guia1.1\Ej3\obj\Debug\Ej3.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\Guia1.1\Ej3\obj\Debug\Ej3.Cargar_peaje.resources
+C:\Users\santy\source\repos\Guia1.1\Ej3\obj\Debug\Ej3.Form1.resources
+C:\Users\santy\source\repos\Guia1.1\Ej3\obj\Debug\Ej3.Properties.Resources.resources
+C:\Users\santy\source\repos\Guia1.1\Ej3\obj\Debug\Ej3.csproj.GenerateResource.cache
+C:\Users\santy\source\repos\Guia1.1\Ej3\obj\Debug\Ej3.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Guia1.1\Ej3\obj\Debug\Ej3.exe
+C:\Users\santy\source\repos\Guia1.1\Ej3\obj\Debug\Ej3.pdb

@@ -1,0 +1,13 @@
+C:\Users\santy\source\repos\Guia1.1\Ej2\bin\Debug\Ej2.exe.config
+C:\Users\santy\source\repos\Guia1.1\Ej2\bin\Debug\Ej2.exe
+C:\Users\santy\source\repos\Guia1.1\Ej2\bin\Debug\Ej2.pdb
+C:\Users\santy\source\repos\Guia1.1\Ej2\obj\Debug\Ej2.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\Guia1.1\Ej2\obj\Debug\Ej2.Form1.resources
+C:\Users\santy\source\repos\Guia1.1\Ej2\obj\Debug\Ej2.Informe.resources
+C:\Users\santy\source\repos\Guia1.1\Ej2\obj\Debug\Ej2.Inicio.resources
+C:\Users\santy\source\repos\Guia1.1\Ej2\obj\Debug\Ej2.parada.resources
+C:\Users\santy\source\repos\Guia1.1\Ej2\obj\Debug\Ej2.Properties.Resources.resources
+C:\Users\santy\source\repos\Guia1.1\Ej2\obj\Debug\Ej2.csproj.GenerateResource.cache
+C:\Users\santy\source\repos\Guia1.1\Ej2\obj\Debug\Ej2.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Guia1.1\Ej2\obj\Debug\Ej2.exe
+C:\Users\santy\source\repos\Guia1.1\Ej2\obj\Debug\Ej2.pdb
